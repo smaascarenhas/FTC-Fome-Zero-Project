@@ -2,8 +2,7 @@
 
 **Contexto do Problema de Negócio:
 Parabéns! Você acaba de ser contratado como Cientista de Dados da empresa
-Fome Zero, e a sua principal tarefa nesse momento é ajudar o CEO Kleiton Guerra
-a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
+Fome Zero, e a sua principal tarefa nesse momento é ajudar o CEO a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
 utilizando dados! A empresa Fome Zero é uma Marketplace de restaurantes. Ou seja, seu core
 business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza
 informações como endereço, tipo de culinária servida, se possui reservas, se faz
