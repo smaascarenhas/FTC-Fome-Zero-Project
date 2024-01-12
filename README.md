@@ -136,7 +136,7 @@ refletem as 3 principais visões do modelo de negócio da empresa:**
 
 **Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link:** https://ftc-fomezero-smc.streamlit.app/
+O painel pode ser acessado através desse link:** https://ftc-fomezero-sm.streamlit.app/
 
 # 6. **Conclusão**
 
